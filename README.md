@@ -99,16 +99,6 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
   <img src="https://streak-stats.demolab.com?user=anannasaha76&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anannasaha76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" width="45%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anannasaha76&theme=tokyonight&utcOffset=6" alt="Productive Time" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anannasaha76&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-</p>
-
 ---
 
 ## 🔗 Connect With Me
