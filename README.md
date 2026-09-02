@@ -56,8 +56,6 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anannasaha76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=anannasaha76&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
