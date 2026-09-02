@@ -35,58 +35,32 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="Programming Languages" />
 </p>
 
 ### 🖥️ Frontend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="Frontend" />
 </p>
 
 ### 🔧 Backend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,django&theme=dark" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="48" height="48"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="48" height="48"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases" />
 </p>
 
 ### 🎨 Design
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="48" height="48"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" title="Framer" alt="Framer" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma,framer&theme=dark" alt="Design" />
 </p>
 
 ### 🧰 Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="48" height="48"/>
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,arduino&theme=dark" alt="Tools" />
 </p>
 
 ---
