@@ -56,17 +56,15 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 
 ### 💼 [InnoVest – Startup Investment Platform](https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform)
 
-> A dynamic platform bridging the gap between innovative founders and forward-thinking investors. Enables startups to raise funds, present business plans, connect with investors, and track growth — with AI-powered project analysis, secure KYC verification, real-time communication, and community features.
-
 **🔗 Links:**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform)
+
+> A dynamic platform bridging the gap between innovative founders and forward-thinking investors. Enables startups to raise funds, present business plans, connect with investors, and track growth — with AI-powered project analysis, secure KYC verification, real-time communication, and community features.
 
 **🛠️ Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
