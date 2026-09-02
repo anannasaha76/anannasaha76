@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Hi%2C+I'm+Ananna+Saha;Aspiring+Full+Stack+Developer;%F0%9F%94%8D+Seeking+Internship+Opportunities;React+%26+TypeScript+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🎓 CS&amp;E Graduate &nbsp;·&nbsp; 💻 Full-Stack Developer &nbsp;·&nbsp; 🌍 Based in Bangladesh</h3>
+
 
 <br/>
 
