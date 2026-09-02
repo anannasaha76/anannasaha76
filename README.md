@@ -3,19 +3,6 @@
 </h1>
 
 
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anannasaha76&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/anannasaha76">
-    <img src="https://img.shields.io/github/followers/anannasaha76?label=Followers&style=for-the-badge&logo=github&color=6C63FF" alt="GitHub Followers" />
-  </a>
-</p>
-
----
-
 ## 🙋‍♀️ About Me
 
 I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United International University**, passionate about building modern, scalable, and visually appealing web applications. I love turning ideas into reality through clean code and thoughtful design.
