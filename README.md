@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/anannasaha76/anannasaha76/main/banner.png" alt="Ananna Saha Banner" width="100%" />
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Ananna+Saha+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Ananna+Saha+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;" alt="Typing SVG" />
 </h1>
 
 
