@@ -52,6 +52,50 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 
 ---
 
+## 🚀 Featured Projects
+
+### 💼 [InnoVest – Startup Investment Platform](https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform)
+
+> A dynamic platform bridging the gap between innovative founders and forward-thinking investors. Enables startups to raise funds, present business plans, connect with investors, and track growth — with AI-powered project analysis, secure KYC verification, real-time communication, and community features.
+
+**🔗 Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform)
+
+**🛠️ Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+### 🎮 [ByteArena](https://github.com/mdalemrananas/ByteArena)
+
+> An interactive coding platform for developers and programming enthusiasts to practice problems, participate in contests, and sharpen problem-solving skills. Features secure code execution, automated scoring, problem authoring, editorials, and real-time leaderboards.
+
+**🔗 Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalemrananas/ByteArena)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/l-Rd3BHpD8s?si=paQ2qKDCC83tFHGP)
+
+**🛠️ Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Piston API](https://img.shields.io/badge/Piston_API-4A90D9?style=flat-square&logo=codesandbox&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
