@@ -60,7 +60,7 @@ Hi! I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United
 
 ### 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,framer&theme=dark" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
 </p>
 
 ### 🧰 Tools
