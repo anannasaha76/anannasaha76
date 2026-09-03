@@ -112,7 +112,7 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 </p>
 
 ---
-
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=midnight)
 
 
 <p align="center">
