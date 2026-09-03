@@ -107,12 +107,12 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anannasaha76&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
-</p>
-
----
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=midnight)
+<!-- <p align="center">
+ 
+  <!-- <img src="https://streak-stats.demolab.com?user=anannasaha76&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" /> -->
+<!-- </p> -->
+ 
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=anannasaha76&theme=midnight)
 
 
 <p align="center">
