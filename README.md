@@ -115,6 +115,6 @@ I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United Int
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=anannasaha76&theme=midnight)
 
 
-<p align="center">
+<!-- <p align="center">
   <em>✨ "The best way to predict the future is to create it." — Let's build something amazing together!</em>
-</p>
+</p> -->
