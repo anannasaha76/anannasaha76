@@ -17,7 +17,7 @@ Hi! I'm **Ananna Saha**, a Computer Science & Engineering graduate from **United
 - 🔭 Working on personal projects with the **MERN stack**
 - 🎨 Interested in **UI/UX design** and creating great user experiences
 - 🤝 Actively seeking **internship opportunities** — open to collaborate!
-- 📫 Reach me: **anannasaha099@gmail.com**
+- 📫 Reach me: anannasaha099@gmail.com
 
 ---
 
