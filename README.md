@@ -74,7 +74,7 @@ Hi! I am **Ananna Saha**, a Computer Science & Engineering graduate from **Unite
 
 ### 💼 InnoVest – Startup Investment Platform &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform)
 
-> A dynamic platform bridging the gap between innovative founders and forward-thinking investors. Enables startups to raise funds, present business plans, connect with investors, and track growth — with AI-powered project analysis, secure KYC verification, real time communication, and community features.
+> A dynamic platform bridging the gap between innovative founders and forward-thinking investors. Enables startups to raise funds, present business plans, connect with investors, and track growth — with AI powered project analysis, secure KYC verification, real time communication, and community features.
 
 **🛠️ Tech Stack:**
 
