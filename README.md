@@ -91,7 +91,7 @@ Hi! I am **Ananna Saha**, a Computer Science & Engineering graduate from **Unite
 
 ### 🎮 ByteArena &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalemrananas/ByteArena) [![YouTube](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/l-Rd3BHpD8s?si=paQ2qKDCC83tFHGP)
 
-> An interactive coding platform for developers and programming enthusiasts to practice problems, participate in contests, and sharpen problem-solving skills. Features secure code execution, automated scoring, problem authoring, editorials, and real time leaderboards.
+> An interactive coding platform for developers and programming enthusiasts to practice problems, participate in contests, and sharpen problem solving skills. Features secure code execution, automated scoring, problem authoring, editorials, and real time leaderboards.
 
 **🛠️ Tech Stack:**
 
