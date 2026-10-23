@@ -10,7 +10,7 @@
 
 Hi! I am **Ananna Saha**, a Computer Science & Engineering graduate from **United International University** and an aspiring Full Stack Web Developer. I enjoy building web applications and exploring modern technologies, with a current focus on React, TypeScript and full stack development. I am currently looking for internship opportunities to learn, grow and collaborate.
 
-**What I'm up to right now:**
+**What I am up to right now:**
 
 - 🌱 Deepening my skills in **React.js** and **TypeScript**
 - ⚡ Exploring **Next.js** and modern full stack patterns
